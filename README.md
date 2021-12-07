@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dindaasmara
+- 👀 I’m interested in analysis
+- 🌱 I’m currently learning SQL, Python
