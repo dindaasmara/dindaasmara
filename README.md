@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dindaasmara
-- 👀 I’m interested in analysis
-- 🌱 I’m currently learning SQL, Python
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning R, SQL, Python
